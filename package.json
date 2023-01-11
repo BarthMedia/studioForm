@@ -1,0 +1,19 @@
+{
+  "name": "@bmg.studio/studioform",
+  "version": "0.0.0",
+  "description": "Trying to get npm & studio form to work in GitHub codespaces. Previously running in single file, written in browser, hosted through jsdeliver environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarthMedia/studioForm.git"
+  },
+  "author": "Leon B. Barth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BarthMedia/studioForm/issues"
+  },
+  "homepage": "https://github.com/BarthMedia/studioForm#readme"
+}
