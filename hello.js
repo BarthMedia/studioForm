@@ -14,7 +14,7 @@ function hello(...args) {
 	// End value
 	let val = 'Hello' + string + '!'
 
-	// Return
+	// Return todo
 	return val
 }
 
