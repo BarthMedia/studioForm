@@ -1,0 +1,20 @@
+{
+  "name": "@bmg.studio/form",
+  "version": "0.0.1",
+  "description": "Restructuring of the initial studioForm.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarthMedia/studioForm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarthMedia/studioForm/issues"
+  },
+  "homepage": "https://github.com/BarthMedia/studioForm#readme"
+}
