@@ -1,9 +1,9 @@
 /* [BMG.studio] Test scripts to figure out the best infrastructure to build studio form */
-"use strict";
+'use strict'
 
 // Import
-const hello = require("./hello");
+const hello = require('./hello')
 
-console.log(hello);
+console.log(hello)
 
-("updated version. Lol");
+;('updated version. Lol')
