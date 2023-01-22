@@ -4,7 +4,7 @@
   "description": "Trying to get npm & studio form to work in GitHub codespaces. Previously running in single file, written in browser, hosted through jsdeliver environment.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
